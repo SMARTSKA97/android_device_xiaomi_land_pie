@@ -1,0 +1,5 @@
+# Display
+persist.sys.wfd.virtual=0
+
+ro.xtended.version=FirstBlood
+ro.xtended.display.version=

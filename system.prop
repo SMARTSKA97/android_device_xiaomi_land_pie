@@ -1,0 +1,5 @@
+# Camera
+persist.camera.HAL3.enabled=1
+
+# Display
+persist.sys.wfd.virtual=0

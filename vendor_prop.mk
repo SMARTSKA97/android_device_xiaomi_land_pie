@@ -60,6 +60,7 @@ camera.hal1.packagelist=com.skype.raider,com.google.android.talk \
 persist.camera.gyro.android=1 \
 persist.camera.is_type=1 \
 vendor.vidc.enc.narrow.searchrange=1 \
+persist.camera.HAL3.enabled=1
 persist.vendor.qti.telephony.vt_cam_interface=1
 
 # Cne/Dpm
@@ -86,6 +87,7 @@ debug.sf.enable_hwc_vds=1 \
 debug.sf.hw=0 \
 debug.sf.latch_unsignaled=1 \
 debug.egl.hw=0 \
+persist.sys.wfd.virtual=0 
 persist.hwc.mdpcomp.enable=true \
 debug.mdpcomp.logs=0 \
 dev.pm.dyn_samplingrate=1 \

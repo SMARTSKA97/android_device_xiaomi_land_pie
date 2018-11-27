@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_land.mk
+    $(LOCAL_DIR)/havoc_land.mk

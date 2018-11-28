@@ -428,4 +428,4 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
       Messaging \
       Mixplorer \
-      Ruthless
+      Ruthless_Launcher
